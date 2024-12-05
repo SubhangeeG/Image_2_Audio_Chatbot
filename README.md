@@ -35,9 +35,9 @@ This project uses machine learning pipelines to perform object detection on imag
 ---
 
 ## Screenshots  
-| Input Image | Processed Image with Bounding Boxes |  
-|-------------|------------------------------------|  
-| _Include screenshots here_ |
+| App View    |
+|-------------|
+| ![Screenshot 2024-12-05 170847](https://github.com/user-attachments/assets/6245c7f7-90a9-4f82-9197-7171899b0ba9)|
 
 ---
 
