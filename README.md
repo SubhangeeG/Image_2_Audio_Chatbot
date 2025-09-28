@@ -2,7 +2,7 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Python-green.svg)  
 ![Framework](https://img.shields.io/badge/Framework-Gradio-blue.svg)  
-![Status](https://img.shields.io/badge/Status-In_Development-yellow.svg)
+
 
 ### A Python-based application that combines object detection and text-to-speech to generate annotated images and audio descriptions for detected objects in input images.
 
